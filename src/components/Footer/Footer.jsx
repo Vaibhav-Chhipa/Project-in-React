@@ -30,12 +30,12 @@ export default function Footer() {
                                 </li>
                             </ul>
                         </div>
-                        <div>
+{/*                         <div>
                             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">Follow us</h2>
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-{/*                                         href="https://github.com/hiteshchoudhary" */}
+                                        href="https://github.com/hiteshchoudhary"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
@@ -49,7 +49,7 @@ export default function Footer() {
                                     </Link>
                                 </li>
                             </ul>
-                        </div>
+                        </div> */}
                         <div>
                             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">Legal</h2>
                             <ul className="text-gray-500 font-medium">
